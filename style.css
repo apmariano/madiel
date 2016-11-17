@@ -5,7 +5,7 @@ body{
 div.blue{
 	background-color: #3D72A4;
 	vertical-align: top;
-	padding-top: 100px;
+	padding-top: 150px;
 	padding-bottom: 50px;
 	min-height: 100vh;
 }
@@ -13,7 +13,7 @@ div.blue{
 div.white{
 	background-color: #FFFFFF;
 	vertical-align: top;
-	padding-top: 100px;
+	padding-top: 150px;
 	padding-bottom: 50px;
 	min-height: 100vh;
 }
